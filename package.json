@@ -1,0 +1,21 @@
+{
+    "name": "nat-dark",
+    "displayName": "Nat Dark",
+    "description": "Dark mode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nat Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nat Dark-color-theme.json"
+            }
+        ]
+    }
+}
